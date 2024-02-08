@@ -29,5 +29,10 @@
 
 ## DEPLOYMENT
 
+<img width="1438" alt="Screenshot 2024-02-08 at 11 53 38 AM" src="https://github.com/collinsjosephj/refactoringstore/assets/156174614/7aeaa935-c800-4306-be27-ea35b25d6fed">
+
+
+
+
 The deployed application can be found on GitHub Pages at:  [https://collinsjosephj.github.io/refactoringstore/]
 
