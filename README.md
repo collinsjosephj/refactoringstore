@@ -29,5 +29,5 @@
 
 ## DEPLOYMENT
 
-The deployed application can be found on GitHub Pages: 
+The deployed application can be found on GitHub Pages at:  [https://collinsjosephj.github.io/refactoringstore/]
 
