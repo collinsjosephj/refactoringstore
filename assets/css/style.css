@@ -127,7 +127,9 @@ p
 
 .benefit 
 {
-    /* made one "benefit" class to eliminate redundancy*/
+    /* made one "benefit" class to eliminate redundancy, and this route
+    was hinted to me by a peer in our Bootcamp Slack Channel. I also applied this 
+    reasoning below*/
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -142,7 +144,7 @@ p
 
 h2 
 {
-    /* Simplified class selectors in h2 to just 1 styling */
+    /* simplified class selectors in h2 to just 1 styling */
     margin-bottom: 20px;
     font-size: 36px;
 }
